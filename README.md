@@ -1,6 +1,8 @@
 
 **Author**: Bhavya Batta  
+
 **Email**: [bbatt@uic.edu](mailto:bbatt@uic.edu)
+
 **Video**: [Video Demo Link](https://uic.zoom.us/rec/share/XLlGfaZo1_dhUL4USrI3ZlMyHZQ8a19ZVihouOEf-vrPO91XjWtdm7EjSRTVkrlZ.iKwDWA6-RXz_cbam)
 
 ## Introduction
